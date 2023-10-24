@@ -38,7 +38,7 @@ Welcome to the Farmer Market Data Analysis project! This repository is dedicated
 18. What are the peak hours for farmer markets?
 19. How do the prices of products at farmer markets compare to prices at grocery stores?
 20. What are the most frequently mentioned products in customer reviews?
-21. <img width="433" alt="image" src="https://github.com/shivendra1-cyber/Farmers_market_analysis/assets/68283342/946bc99b-eb84-4e1d-8625-02660dd86038">
+
 
 
 ## Getting Started
