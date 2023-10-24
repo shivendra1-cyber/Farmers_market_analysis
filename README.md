@@ -11,6 +11,8 @@ Welcome to the Farmer Market Data Analysis project! This repository is dedicated
 - **SQL Queries:** Utilize SQL queries to extract relevant information from the datasets. Create, modify, and optimize queries to answer specific questions about farmer markets.
 
 - **Data Visualization:** Visualize the results of your analyses using charts, graphs, or any other visualization tools. Make the data more accessible and interpretable for stakeholders.
+- <img width="670" alt="image" src="https://github.com/shivendra1-cyber/Farmers_market_analysis/assets/68283342/f1c978ac-89b8-4583-8e75-bd7c46712b23">
+
 
 - **Insight Generation:** Generate actionable insights from the data to support decision-making processes. Identify trends, patterns, and correlations that can benefit local producers, market organizers, and consumers.
 
